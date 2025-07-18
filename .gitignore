@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Data files
+data/raw/
+data/processed/
+
+# Model files
+models/saved_model/
+models/training_logs/
+
+# Output files
+output/
+
+# Notebook outputs
+notebooks/*.ipynb
